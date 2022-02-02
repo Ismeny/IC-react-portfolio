@@ -1,12 +1,12 @@
 import React from 'react';
-import resume from '../docs/tech-resume.pdf'
+
 
 function Resume() {
   return (
     <section className="my-5">
       <div className="my-2">
       <p>
-        Download my <a className= 'resume-link'href={resume} target="_blank" rel="noreferrer">resume</a>
+      Download my <a href="https://www.linkedin.com/">resume</a>
         </p>
         <h3>Front-end Proficiencies</h3>
         <ul className="skills">
