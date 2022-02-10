@@ -10,7 +10,7 @@ function Footer() {
     },
     {
       name: "fab fa-linkedin",
-      link: "https://www.linkedin.com/in/ismeny-castro-b8b32821b/"
+      link: "https://www.linkedin.com/in/ismenycastro/"
     },
     {
       name: "fab fa-twitter",
