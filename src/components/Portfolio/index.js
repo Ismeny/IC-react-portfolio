@@ -19,7 +19,7 @@ function Portfolio() {
     },
     {
       name: 'run-buddy',
-      description: 'HTML/CSS',
+      description: 'HTML/CSS/ Javascript',
       link: "https://github.com",
       repo: "https://github.com"
     },
